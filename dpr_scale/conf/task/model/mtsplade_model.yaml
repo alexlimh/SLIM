@@ -1,0 +1,5 @@
+# @package _group_
+_target_: dpr_scale.models.citadel_models.mtsplade_model.MTSPLADEEncoder
+model_path: bert-base-uncased
+dropout: 0.1
+sparse_mode: False
